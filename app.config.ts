@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "Monitoring Directory",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,17 +10,17 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Minted Directory",
-    description: "Example Description",
-    url: "https://example.com",
+    name: "Monitoring Directory",
+    description: "Directory of Central Monitoring Providers",
+    url: "https://MonitoringDirectory.com",
     favicon: {
       image: "",
-      emoji: "🍃",
+      emoji: "",
     },
   },
   directory: {
     search: {
-      placeholder: "Search among {0} tools",
+      placeholder: "Search {0} Monitoring Stations",
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
@@ -73,7 +73,7 @@ export default defineAppConfig({
   },
   header: {
     banner: {
-      show: true,
+      show: false,
       text: "Create your own directory website in minutes.",
       link: "https://minteddirectory.com",
       brandText: "MintedDirectory",
@@ -82,44 +82,44 @@ export default defineAppConfig({
       colorModeSelector: true,
       links: [
         { name: "Directory", to: "/" },
-        { name: "Blog", to: "/blog" },
-        { name: "Advertise", to: "/advertise" },
-        {
-          name: "Analytics",
-          to: "https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ",
-          target: "_blank",
-        },
+        // { name: "Info", to: "/blog" },
+        // { name: "Advertise", to: "/advertise" },
+        // {
+        //   name: "Analytics",
+        //   to: "https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ",
+        //   target: "_blank",
+        // },
       ],
     },
     actionButton: {
-      text: "Submit a starter",
-      href: "/submit",
+      text: "Add a Station",
+      href:  "/submit",
     },
   },
   footer: {
-    description: "Best directory for my niche.",
-    socials: {
-      github: {
-        link: "",
-        icon: "tabler:brand-github",
-      },
-      facebook: {
-        link: "",
-        icon: "tabler:brand-facebook",
-      },
-      instagram: {
-        link: "",
-        icon: "tabler:brand-instagram",
-      },
-      x: {
-        link: "https://x.com/mark_bruderer",
-        icon: "tabler:brand-twitter",
-      },
-      youtube: {
-        link: "https://www.youtube.com/@mark_hacks",
-        icon: "tabler:brand-youtube",
-      },
-    },
+    description: "Best directory for Central Monitoring Station Providers.",
+    // socials: {
+    //   github: {
+    //     link: "",
+    //     icon: "tabler:brand-github",
+    //   },
+    //   facebook: {
+    //     link: "",
+    //     icon: "tabler:brand-facebook",
+    //   },
+    //   instagram: {
+    //     link: "",
+    //     icon: "tabler:brand-instagram",
+    //   },
+    //   x: {
+    //     link: "https://x.com/mark_bruderer",
+    //     icon: "tabler:brand-twitter",
+    //   },
+    //   youtube: {
+    //     link: "https://www.youtube.com/@mark_hacks",
+    //     icon: "tabler:brand-youtube",
+    //   },
+    // },
   },
   ui: {
     icons: {

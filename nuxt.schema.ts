@@ -100,7 +100,7 @@ export default defineNuxtSchema({
               title: "Placeholder",
               description:
                 "Placeholder text for the search input. Use {0} to mark where to fill in the number of listings.",
-              default: "Search among {0} tools",
+              default: "Search {0} Monitoring Stations",
             }),
             icon: field({
               type: "icon",
