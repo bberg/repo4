@@ -3,8 +3,8 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 export default defineAppConfig({
   general: {
     title: "Monitoring Directory",
-    logo: "",
-    iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
+    logo: "/logo.png",
+    // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
   site: {
     // override the general settings for seo tags.
