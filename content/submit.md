@@ -1,6 +1,5 @@
 # Submit your Station to The Monitoring Directory
 
-
 ---
 
 ::tally-form

@@ -42,7 +42,7 @@ export default defineAppConfig({
         type: "shadow",
       },
       submit: {
-        show: true,
+        show: false,
         first: false,
         title: "Submit a template",
         description:
@@ -57,13 +57,13 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
-      { name: "SAAS", color: "blue" },
-      { name: "dashboard", color: "green" },
-      { name: "landing-page" },
-      { name: "toolbox" },
-      { name: "agency" },
-      { name: "markdown-based" },
-      { name: "basics", color: "indigo" },
+      // { name: "SAAS", color: "blue" },
+      // { name: "dashboard", color: "green" },
+      // { name: "landing-page" },
+      // { name: "toolbox" },
+      // { name: "agency" },
+      // { name: "markdown-based" },
+      // { name: "basics", color: "indigo" },
     ],
     tagPages: {
       title: "Available {0} products:",
