@@ -22,13 +22,16 @@
     "@tailwindcss/forms": "^0.5.9",
     "@tailwindcss/typography": "^0.5.15",
     "nuxt": "^3.13.2",
+    "nuxt-gtag": "3.0.2",
     "posthog-js": "^1.163.0",
     "vue": "^3.5.6",
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@iconify-json/tabler": "^1.2.5",
-    "@nuxt/icon": "^1.5.1"
+    "@nuxt/icon": "^1.5.1",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/google-gtag": "^1.0.4"
   },
   "packageManager": "pnpm@9.12.2"
 }

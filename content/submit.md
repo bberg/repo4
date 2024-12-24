@@ -4,6 +4,6 @@
 
 ::tally-form
 ---
-embed: https://tally.so/embed/mOYErk?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1
+embed: https://tally.so/embed/3jGR4Y?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1
 ---
 ::

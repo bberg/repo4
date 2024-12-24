@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Federal_Response_Center_logo.png
-description: Springfield, MO | (800) 299-5400
+description: Springfield, MO | Offering nearly 50 years of expertise, this business provides integrated and customized security solutions for commercial, financial, and residential clients, emphasizing exceptional service and operational efficiency.
 ---
 
 # Federal Response Center
@@ -9,4 +9,5 @@ description: Springfield, MO | (800) 299-5400
 
 <a href="https://www.federalprotection.com">Visit Website</a>  
 **Location:** Springfield, MO  
-**Phone:** (800) 299-5400
+**Phone:** (800) 299-5400 <br>
+Offering nearly 50 years of expertise, this business provides integrated and customized security solutions for commercial, financial, and residential clients, emphasizing exceptional service and operational efficiency.

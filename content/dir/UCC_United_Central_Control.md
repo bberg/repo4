@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: UCC_United_Central_Control_logo.png
-description: Lewisville & San Antonio, TX | N/A
+description: Lewisville & San Antonio, TX | Specializing in cutting-edge security monitoring services, this company empowers independent alarm dealers with comprehensive support and expert training, fostering growth and adaptation in the evolving security industry.
 ---
 
 # UCC (United Central Control)
@@ -9,4 +9,5 @@ description: Lewisville & San Antonio, TX | N/A
 
 <a href="https://www.teamucc.com">Visit Website</a>  
 **Location:** Lewisville & San Antonio, TX  
-**Phone:** N/A
+**Phone:** N/A <br>
+Specializing in cutting-edge security monitoring services, this company empowers independent alarm dealers with comprehensive support and expert training, fostering growth and adaptation in the evolving security industry.

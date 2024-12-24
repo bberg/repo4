@@ -9,7 +9,7 @@ ogImage:
 # Promote Your Monitoring Station Services
 
 #description
-Connect with security professionals, integrators, and businesses exploring Monitoring Directory. Advertise your monitoring station services here to engage directly with a highly focused and relevant audience. :shield:
+Connect with security professionals, integrators, and businesses exploring The Monitoring Directory. Advertise your monitoring station services here to engage directly with a highly focused and relevant audience. :shield:
 
 ---
 
@@ -24,7 +24,7 @@ Here’s an example of how featured listings will appear to Minted Directory vis
 :FeatureExample
 
 ## Sponsoring
-Elevate your brand by becoming a sponsor on MintedDirectory. Sponsors enjoy exclusive placement on the homepage, capturing the attention of our growing audience of security professionals and decision-makers. This is an excellent opportunity to build brand awareness and establish your monitoring station as an industry leader.
+Elevate your brand by becoming a sponsor on MonitoringDirectory. Sponsors enjoy exclusive placement on the homepage, capturing the attention of our growing audience of security professionals and decision-makers. This is an excellent opportunity to build brand awareness and establish your monitoring station as an industry leader.
 
 :SponsorExample{title="SafeSecure Monitoring" description="24/7 professional monitoring you can trust. 🔒"}
 

@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Total_Monitoring_Services_logo.png
-description: Sacramento, CA | (888) 610-4377
+description: Sacramento, CA | Offering exceptional monitoring services with a strong focus on security, this company is reputed for its commitment to quality and comprehensive support, though customer experiences with representatives may vary.
 ---
 
 # Total Monitoring Services
@@ -9,4 +9,5 @@ description: Sacramento, CA | (888) 610-4377
 
 <a href="https://www.tmscentral.org">Visit Website</a>  
 **Location:** Sacramento, CA  
-**Phone:** (888) 610-4377
+**Phone:** (888) 610-4377 <br>
+Offering exceptional monitoring services with a strong focus on security, this company is reputed for its commitment to quality and comprehensive support, though customer experiences with representatives may vary.

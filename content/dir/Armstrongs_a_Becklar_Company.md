@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Armstrongs_a_Becklar_Company_logo.png
-description: Coal Creek, NB | (506) 339-6066
+description: Coal Creek, NB | Offering comprehensive wholesale monitoring services across Canada with cutting-edge technology and multiple ULC listed stations, this provider extends beyond traditional security to include medical alerts, IoT devices, and personal emergency response systems.
 ---
 
 # Armstrongs, a Becklar Company
@@ -9,4 +9,5 @@ description: Coal Creek, NB | (506) 339-6066
 
 <a href="https://www.armcom.ca">Visit Website</a>  
 **Location:** Coal Creek, NB  
-**Phone:** (506) 339-6066
+**Phone:** (506) 339-6066 <br>
+Offering comprehensive wholesale monitoring services across Canada with cutting-edge technology and multiple ULC listed stations, this provider extends beyond traditional security to include medical alerts, IoT devices, and personal emergency response systems.

@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Monitoring_America_Alarm_Co-op_logo.png
-description: Tulsa, OK | (800) 879-1438
+description: Tulsa, OK | Offering unique wholesale alarm monitoring services with competitive pricing and almost immediate response times, this member-owned co-op is run by alarm dealers for alarm dealers, ensuring professional service and high customer satisfaction.
 ---
 
 # Monitoring America Alarm Co-op
@@ -9,4 +9,5 @@ description: Tulsa, OK | (800) 879-1438
 
 <a href="https://www.monitoringamerica.com">Visit Website</a>  
 **Location:** Tulsa, OK  
-**Phone:** (800) 879-1438
+**Phone:** (800) 879-1438 <br>
+Offering unique wholesale alarm monitoring services with competitive pricing and almost immediate response times, this member-owned co-op is run by alarm dealers for alarm dealers, ensuring professional service and high customer satisfaction.

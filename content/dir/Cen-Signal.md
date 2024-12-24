@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Cen-Signal_logo.png
-description: Columbus, GA | (800) 554-1101
+description: Columbus, GA | Offering nationwide monitoring services with a touch of Southern hospitality, this UL-approved central station specializes in providing reliable and attentive support to ensure safety and security across a wide range of locations.
 ---
 
 # Cen-Signal
@@ -9,4 +9,5 @@ description: Columbus, GA | (800) 554-1101
 
 <a href="https://www.censignal.com">Visit Website</a>  
 **Location:** Columbus, GA  
-**Phone:** (800) 554-1101
+**Phone:** (800) 554-1101 <br>
+Offering nationwide monitoring services with a touch of Southern hospitality, this UL-approved central station specializes in providing reliable and attentive support to ensure safety and security across a wide range of locations.

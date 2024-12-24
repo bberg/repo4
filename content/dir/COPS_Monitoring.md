@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: COPS_Monitoring_logo.png
-description: Lewisville, TX | (800) 367-2677
+description: Lewisville, TX | Offering advanced redundancy, real-time load sharing, a 100% wholesale business model, and a supportive work environment, this company provides world-class security and custom monitoring services with experienced leadership and cutting-edge technology.
 ---
 
 # COPS Monitoring
@@ -9,4 +9,5 @@ description: Lewisville, TX | (800) 367-2677
 
 <a href="https://www.copsmonitoring.com">Visit Website</a>  
 **Location:** Lewisville, TX  
-**Phone:** (800) 367-2677
+**Phone:** (800) 367-2677 <br>
+Offering advanced redundancy, real-time load sharing, a 100% wholesale business model, and a supportive work environment, this company provides world-class security and custom monitoring services with experienced leadership and cutting-edge technology.

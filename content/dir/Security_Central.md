@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Security_Central_logo.png
-description: Statesville, NC | (800) 560-6568
+description: Statesville, NC | For over 60 years, this company offers customizable monitoring services that act as an extension of your brand, alongside comprehensive business support like full-service billing and professional marketing solutions.
 ---
 
 # Security Central
@@ -9,4 +9,5 @@ description: Statesville, NC | (800) 560-6568
 
 <a href="https://www.security-central.com">Visit Website</a>  
 **Location:** Statesville, NC  
-**Phone:** (800) 560-6568
+**Phone:** (800) 560-6568 <br>
+For over 60 years, this company offers customizable monitoring services that act as an extension of your brand, alongside comprehensive business support like full-service billing and professional marketing solutions.

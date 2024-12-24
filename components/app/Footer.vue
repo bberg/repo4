@@ -14,8 +14,8 @@ const navigation = [
   {
     title: "Legal",
     links: [
-      { title: "Privacy Policy", link: "/legal/terms-of-service" },
-      { title: "Terms of Service", link: "/legal/privacy-policy" },
+      //{ title: "Privacy Policy", link: "/legal/terms-of-service" },
+      { title: "Privacy Policy", link: "/legal/privacy-policy" },
     ],
   },
 ];

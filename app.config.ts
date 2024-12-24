@@ -24,14 +24,14 @@ export default defineAppConfig({
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
-        display: "select",
+        display: "none",
         intersection: false,
       },
     },
     grid: {
       list: false,
       emptyState: {
-        text: "Seems that this entry is missing from the archives.",
+        text: "Entry not found.",
         // options: button, simple, link
         type: "button",
         icon: "tabler:exclamation-mark",
@@ -51,8 +51,8 @@ export default defineAppConfig({
       },
     },
     featured: {
-      showOnAllPages: true,
-      showOnSide: true,
+      showOnAllPages: false,
+      showOnSide: false,
       icon: "tabler:star",
       labelForCard: "Featured ✨",
     },

@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Alarm_Monitoring_Services_logo.png
-description: Monroe, LA | (877) 740-0283
+description: Monroe, LA | Providing innovative alarm and video monitoring solutions since 1980, this UL Listed Alarm Monitoring Station caters to diverse security needs nationwide, utilizing cutting-edge technology and personalized customer service.
 ---
 
 # Alarm Monitoring Services
@@ -9,4 +9,5 @@ description: Monroe, LA | (877) 740-0283
 
 <a href="https://www.getAMS.com">Visit Website</a>  
 **Location:** Monroe, LA  
-**Phone:** (877) 740-0283
+**Phone:** (877) 740-0283 <br>
+Providing innovative alarm and video monitoring solutions since 1980, this UL Listed Alarm Monitoring Station caters to diverse security needs nationwide, utilizing cutting-edge technology and personalized customer service.

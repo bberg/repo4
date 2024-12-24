@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: EyeQ_Monitoring_logo.png
-description: Marietta, GA | (888) 675-6555
+description: Marietta, GA | Advanced AI-driven monitoring solutions blend virtual security services with business intelligence, enhancing customer service and protection across various industries.
 ---
 
 # EyeQ Monitoring
@@ -9,4 +9,5 @@ description: Marietta, GA | (888) 675-6555
 
 <a href="https://www.eyeqmonitoring.com">Visit Website</a>  
 **Location:** Marietta, GA  
-**Phone:** (888) 675-6555
+**Phone:** (888) 675-6555 <br>
+Advanced AI-driven monitoring solutions blend virtual security services with business intelligence, enhancing customer service and protection across various industries.

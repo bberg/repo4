@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: US_Monitoring_Inc_logo.png
-description: Oklahoma City, OK | (800) 358-2669
+description: Oklahoma City, OK | Providing national wholesale monitoring services with cutting-edge technology and no hidden fees, this company stands out with an incredibly fast average response time of 8 to 10 seconds for security alarm companies, although some users report unsolicited late-night calls.
 ---
 
 # US Monitoring Inc.
@@ -9,4 +9,5 @@ description: Oklahoma City, OK | (800) 358-2669
 
 <a href="https://www.usm-ok.com">Visit Website</a>  
 **Location:** Oklahoma City, OK  
-**Phone:** (800) 358-2669
+**Phone:** (800) 358-2669 <br>
+Providing national wholesale monitoring services with cutting-edge technology and no hidden fees, this company stands out with an incredibly fast average response time of 8 to 10 seconds for security alarm companies, although some users report unsolicited late-night calls.

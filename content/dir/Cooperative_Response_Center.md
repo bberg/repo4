@@ -1,7 +1,7 @@
 ---
 featured: false
 card_image: Cooperative_Response_Center_logo.png
-description: Austin, MN | (800) 892-1578
+description: Austin, MN | Providing advanced security solutions, real-time video verification, and personalized monitoring services, this business emphasizes reducing false alarms and ensuring the safety of people and assets with compassionate customer care.
 ---
 
 # Cooperative Response Center
@@ -9,4 +9,5 @@ description: Austin, MN | (800) 892-1578
 
 <a href="https://www.crcalarms.com">Visit Website</a>  
 **Location:** Austin, MN  
-**Phone:** (800) 892-1578
+**Phone:** (800) 892-1578 <br>
+Providing advanced security solutions, real-time video verification, and personalized monitoring services, this business emphasizes reducing false alarms and ensuring the safety of people and assets with compassionate customer care.

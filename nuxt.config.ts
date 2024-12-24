@@ -12,7 +12,11 @@ export default defineNuxtConfig({
     "@nuxt/scripts",
     "@nuxt/image",
     "@nuxt/fonts",
+    'nuxt-gtag',
   ],
+  gtag: {
+    id: 'G-7WT9RR346M'
+  },
 
   colorMode: {
     classSuffix: "",
@@ -33,9 +37,11 @@ export default defineNuxtConfig({
   },
 
   runtimeConfig: {
+
+    
     public: {
-      posthogPublicKey: process.env.POSTHOG_PUBLIC_KEY,
-      posthogHost: process.env.POSTHOG_HOST,
+      posthogPublicKey: 'phc_lIMunm30klpLvetBYKUR4tH8VWeIOJsVCLLnHB73AKA',
+      posthogHost: 'https://us.i.posthog.com',
       mdc: {
         useNuxtImage: true,
       },
