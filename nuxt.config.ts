@@ -15,6 +15,7 @@ export default defineNuxtConfig({
     'nuxt-gtag',
   ],
   gtag: {
+    // todo make dynamic
     id: 'G-7WT9RR346M'
   },
 
@@ -40,6 +41,7 @@ export default defineNuxtConfig({
 
     
     public: {
+      // todo make dynamic
       posthogPublicKey: 'phc_lIMunm30klpLvetBYKUR4tH8VWeIOJsVCLLnHB73AKA',
       posthogHost: 'https://us.i.posthog.com',
       mdc: {
@@ -55,6 +57,7 @@ export default defineNuxtConfig({
     },
   },
   site: {
+    // todo make dynamic
     url: "https://example.com",
   },
   compatibilityDate: "2024-09-20",

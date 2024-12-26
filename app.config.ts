@@ -2,7 +2,8 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Monitoring Directory",
+    // todo make dynamic
+    title: "Directory",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -10,9 +11,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Monitoring Directory",
-    description: "Directory of Central Monitoring Providers",
-    url: "https://MonitoringDirectory.com",
+    name: "Directory",
+    description: "Directory",
+    url: "https://Directory.com",
     favicon: {
       image: "",
       emoji: "",
@@ -20,7 +21,7 @@ export default defineAppConfig({
   },
   directory: {
     search: {
-      placeholder: "Search {0} Monitoring Stations",
+      placeholder: "Search {0} Listings",
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
@@ -66,17 +67,17 @@ export default defineAppConfig({
       // { name: "basics", color: "indigo" },
     ],
     tagPages: {
-      title: "Available {0} products:",
+      title: "Available {0} items:",
       description:
-        "View all available tools and templates in the {0} category...",
+        "View all items in the {0} category...",
     },
   },
   header: {
     banner: {
       show: false,
-      text: "Create your own directory website in minutes.",
-      link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      text: "Add your listing",
+      link: "https://Directory.com",
+      brandText: "Directory",
     },
     navbar: {
       colorModeSelector: true,
@@ -97,7 +98,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Best directory for Central Monitoring Station Providers.",
+    description: "Directory for finding appropriate businesses, services, and products",
     // socials: {
     //   github: {
     //     link: "",
